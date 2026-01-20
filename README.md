@@ -40,9 +40,13 @@ streamlit-drawable-canvas
 Go through this github Link: https://github.com/ArdaGen/STEM-Automated-Nanoparticle-Analysis-YOLOv8-SAM?tab=readme-ov-file
 
 weights for YOLOv8 particle detection here :https://drive.google.com/drive/folders/1-ooqb_eBRD0WLau7fTwLcZzDW7jWfmDM
+
 Download:
+
 |-- best12x.pt                 # YOLO weights
+
 ├── sam_vit_h_4b8939.pth       # SAM (ViT-H) checkpoint
+
 ├── mobile_sam.pt              # Lightweight SAM fallback
 
 # Installation:
