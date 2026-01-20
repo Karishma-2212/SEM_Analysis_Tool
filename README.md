@@ -41,13 +41,13 @@ Go through this github Link: https://github.com/ArdaGen/STEM-Automated-Nanoparti
 
 weights for YOLOv8 particle detection here :https://drive.google.com/drive/folders/1-ooqb_eBRD0WLau7fTwLcZzDW7jWfmDM
 
-Download:
+⚠️ Download:Needed for the scripts to execute
 
-best12x.pt                 # YOLO weights
+best12x.pt                 # YOLO weights paste it in the root folder
 
-sam_vit_h_4b8939.pth       # SAM (ViT-H) checkpoint
+sam_vit_h_4b8939.pth       # SAM (ViT-H) checkpoint paste it in the script folder only
 
-mobile_sam.pt              # Lightweight SAM fallback
+mobile_sam.pt              # Lightweight SAM fallback paste it in the script folder only
 
 # Installation:
 Create virtual environment:
