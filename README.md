@@ -43,8 +43,11 @@ source venv/bin/activate
 
 Install compatible versions:
 pip install streamlit==1.31.1
+
 pip install streamlit-drawable-canvas==0.9.3
+
 pip install pillow==10.2.0
+
 pip install -r requirements.txt
 
 # Running the App:
