@@ -43,11 +43,11 @@ weights for YOLOv8 particle detection here :https://drive.google.com/drive/folde
 
 Download:
 
-|-- best12x.pt                 # YOLO weights
+best12x.pt                 # YOLO weights
 
-├── sam_vit_h_4b8939.pth       # SAM (ViT-H) checkpoint
+sam_vit_h_4b8939.pth       # SAM (ViT-H) checkpoint
 
-├── mobile_sam.pt              # Lightweight SAM fallback
+mobile_sam.pt              # Lightweight SAM fallback
 
 # Installation:
 Create virtual environment:
